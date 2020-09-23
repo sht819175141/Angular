@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53417b2c-a167-4335-80b6-171373ac2171" name="Default Changelist" comment="angular-demo案例上传">
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/Service/interceptor-service.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/auth/auth-guard.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/auth/auth-guard.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/John/John.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/John/John.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/John/John.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/John/John.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/jim/jim.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/jim/jim.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/jim/jim.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/jim/jim.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/jim/jim2.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/person-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/person-routing2.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angularTest/src/app/person/person.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/.angular-cli.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/src/app/Service/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angularTest/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angularTest/src/environments/environment.ts" afterDir="false" />
+    <list default="true" id="53417b2c-a167-4335-80b6-171373ac2171" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,22 +58,82 @@
       <option name="presentableId" value="Default" />
       <updated>1600852565274</updated>
       <workItem from="1600852568469" duration="15000" />
-      <workItem from="1600852607977" duration="225000" />
+      <workItem from="1600852607977" duration="501000" />
     </task>
+    <task id="LOCAL-00001" summary="angular-demo案例上传">
+      <created>1600852873059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600852873059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="angular-demo案例上传">
+      <created>1600852975374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600852975374</updated>
+    </task>
+    <task id="LOCAL-00003" summary="angular-demo案例上传">
+      <created>1600853021570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600853021570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="angular-demo案例上传" />
     <option name="LAST_COMMIT_MESSAGE" value="angular-demo案例上传" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="564" y="105" key="CommitChangelistDialog2" timestamp="1600852974355">
+    <state x="564" y="105" key="CommitChangelistDialog2" timestamp="1600853021063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600852974355" />
+    <state x="564" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600853021063" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1600852778573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
